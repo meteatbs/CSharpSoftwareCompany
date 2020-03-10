@@ -1,0 +1,12 @@
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\bin\Debug\SoftwareCompany.exe.config
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\bin\Debug\SoftwareCompany.exe
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\bin\Debug\SoftwareCompany.pdb
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.Form1.resources
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.Library.resources
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.Properties.Resources.resources
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.Register.resources
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.SoftwareCompany_HOME_MDI.resources
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.exe
+C:\Users\metea\source\repos\SoftwareCompany\SoftwareCompany\obj\Debug\SoftwareCompany.pdb
